@@ -29,8 +29,8 @@
     "@nestjs/platform-express": "^10.0.0",
     "nest-next": "^10.1.0",
     "next": "^14.0.3",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18",
+    "react-dom": "^18",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.8.1"
   },
