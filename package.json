@@ -6,7 +6,7 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "start:next": "next dev",
+    "start:next": "next dev --port 3000",
     "start:nest": "nest start --path ./tsconfig.server.json --watch",
     "start:dev": "nest start --path ./tsconfig.server.json --watch",
     "start:debug": "nest start --path ./tsconfig.server.json --debug --watch",
