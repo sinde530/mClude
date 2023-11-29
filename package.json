@@ -1,8 +1,8 @@
 {
   "name": "mClude",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "mCloude 웹의 인터렉션한 부분을 살려서 만드는 3D 모델링 임베드 가능한 사이트.",
+  "author": "crong",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
